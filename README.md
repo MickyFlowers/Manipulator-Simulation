@@ -39,7 +39,7 @@
 
 ### Matlab Simscape Contact Force Library安装
 
-Matlab Simscape Contact Force Library 库是Matlab中的附加功能，在Simscape Multibody仿真中定义物体之间的碰撞力，该库目前对于3D仿真只支持以下几种模型，因此并不能完全定义物体的任一表面，因此在仿真时可对其进行简化。[MathWorks文档](https://ww2.mathworks.cn/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library?s_tid=srchtitle_Contact Force_2)
+Matlab Simscape Contact Force Library 库是Matlab中的附加功能，在Simscape Multibody仿真中定义物体之间的碰撞力，该库目前对于3D仿真只支持以下几种模型，因此并不能完全定义物体的任一表面，因此在仿真时可对其进行简化。[MathWorks文档](https://ww2.mathworks.cn/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library?s_tid=srchtitle)
 
 ![3d_library](./image/3d_library.jpg)
 
